@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2019 (64 Bit Versão de avaliação) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="6.35mm" height="6.35mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 33.05 33.05"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="24px" height="24px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 24 24"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
    <![CDATA[
-    .fil1 {fill:none}
-    .fil0 {fill:black}
+    .fil0 {fill:none}
+    .fil1 {fill:black}
    ]]>
   </style>
  </defs>
  <g id="Camada_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_1411234050864">
-   <polygon class="fil0" points="22.03,24.79 25.19,21.64 18.47,14.91 12.96,20.42 2.75,10.2 4.7,8.26 12.96,16.53 18.47,11.02 27.14,19.68 30.3,16.53 30.3,24.79 "/>
-   <polygon class="fil1" points="-0,0 33.05,0 33.05,33.05 -0,33.05 "/>
-  </g>
-  <rect class="fil1" width="33.05" height="33.05"/>
-  <rect class="fil1" width="33.05" height="33.05"/>
+  <path class="fil0" d="M0 24l24 0 0 -24 -24 0 0 24z"/>
+  <path class="fil1" d="M16 18l2.29 -2.29 -4.88 -4.88 -4 4 -7.41 -7.42 1.41 -1.41 6 6 4 -4 6.3 6.29 2.29 -2.29 0 6 -6 0z"/>
  </g>
 </svg>
